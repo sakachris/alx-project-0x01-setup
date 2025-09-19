@@ -46,5 +46,5 @@ export interface Company {
 }
 
 export interface UsersPageProps {
-  users: UserProps[];
+  posts: UserProps[];
 }
